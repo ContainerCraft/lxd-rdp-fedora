@@ -40,7 +40,7 @@ sudo -i
 ```
 ####  2. Clone Repo
 ```
-git clone https://github.com/containercraft/CloudCTL.git ~/.ccio/cloudctl ; cd ~/.ccio/cloudctl/ansible
+git clone https://github.com/CloudCtl/CloudCTL.git ~/.ccio/cloudctl ; cd ~/.ccio/cloudctl/ansible
 ```
 ####  3. Execute Ansible Playbook
 ```
